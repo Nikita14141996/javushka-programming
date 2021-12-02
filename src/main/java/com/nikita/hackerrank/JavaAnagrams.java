@@ -2,6 +2,10 @@ package com.nikita.hackerrank;
 
 import java.util.Arrays;
 import java.util.Scanner;
+/*
+Ввести с клавиатуры два слова и проверить, что они анаграммы(содержат одинаковые символы с одинаковой частотой).
+https://www.hackerrank.com/challenges/java-anagrams/problem?isFullScreen=true
+ */
 
 public class JavaAnagrams {
     public static void main(String[] args) {

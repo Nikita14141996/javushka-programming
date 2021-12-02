@@ -1,6 +1,11 @@
 package com.nikita.hackerrank;
 
 import java.util.Scanner;
+/*
+Ввести с клавиатуры количество тестовых случаев. В следующих строках ввести числа и в цикле по формуле их перемножить.
+На экран вывести результат умножения чисел.
+https://www.hackerrank.com/challenges/java-loops/problem?isFullScreen=true
+ */
 
 public class JavaLoopsII {
     public static void main(String[] args) {

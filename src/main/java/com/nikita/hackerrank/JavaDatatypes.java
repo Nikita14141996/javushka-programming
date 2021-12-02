@@ -1,6 +1,10 @@
 package com.nikita.hackerrank;
 
 import java.util.Scanner;
+/*
+Ввод с клавиатуры чисел, и определение, смогут ли примитивные типы данных хранить данные числа.
+https://www.hackerrank.com/challenges/java-datatypes/problem?isFullScreen=true
+ */
 
 public class JavaDatatypes {
     public static void main(String[] args) {

@@ -1,6 +1,10 @@
 package com.nikita.hackerrank;
 
 import java.util.Scanner;
+/*
+Ввести число с консоли, проверить к какому диапазону оно относится и вывести на экран сообщение.
+https://www.hackerrank.com/challenges/java-if-else/problem?isFullScreen=true
+ */
 
 public class JavaIfElse {
     public static void main(String[] args) {

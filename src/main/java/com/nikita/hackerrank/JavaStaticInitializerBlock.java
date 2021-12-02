@@ -1,6 +1,11 @@
 package com.nikita.hackerrank;
 
 import java.util.Scanner;
+/*
+Ввести числа с клавиатуры, посчитать площадь параллелограмма и вывести на экран. Если числа отрицательные, вывести
+сообщение об ошибке.
+https://www.hackerrank.com/challenges/java-static-initializer-block/problem?isFullScreen=true
+ */
 
 public class JavaStaticInitializerBlock {
     public static void main(String[] args) {

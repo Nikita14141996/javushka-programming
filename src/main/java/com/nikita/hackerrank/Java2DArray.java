@@ -1,6 +1,10 @@
 package com.nikita.hackerrank;
 
 import java.util.Scanner;
+/*
+Ввести с клавиатуры двумерный массив и вывести на экран максимальную сумму "песочных часов".
+https://www.hackerrank.com/challenges/java-2d-array/problem?isFullScreen=true
+ */
 
 public class Java2DArray {
     public static void main(String[] args) {

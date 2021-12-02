@@ -1,6 +1,10 @@
 package com.nikita.hackerrank;
 
 import java.util.Scanner;
+/*
+Ввести строку и длинну подстроки с клавиатуры, найти наибольшую и наименьшую подстроки и вывести на экран.
+https://www.hackerrank.com/challenges/java-string-compare/problem?isFullScreen=true
+ */
 
 public class JavaSubstringComparisons {
     public static void main(String[] args) {
