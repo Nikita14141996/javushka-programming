@@ -1,6 +1,10 @@
 package com.nikita.hackerrank;
 
 import java.util.Scanner;
+/*
+Ввести числа с клавиатуры и вывести их на экран.
+https://www.hackerrank.com/challenges/java-stdin-and-stdout-1/problem?isFullScreen=true
+ */
 
 public class JavaStdinAndStdoutI {
     public static void main(String[] args) {

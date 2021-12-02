@@ -1,6 +1,10 @@
 package com.nikita.hackerrank;
 
 import java.util.Scanner;
+/*
+Ввести с клавиатуры число и вывести на экран сообщение.
+https://www.hackerrank.com/challenges/java-int-to-string/problem?isFullScreen=true
+ */
 
 public class JavaIntToString {
     public static void main(String[] args) {

@@ -2,6 +2,11 @@ package com.nikita.hackerrank;
 
 import java.util.Locale;
 import java.util.Scanner;
+/*
+Ввести несколько строк с клавиатуры и вывести на экран соединенные строки, в которых надо сделать заглавными первые
+символы.
+https://www.hackerrank.com/challenges/java-strings-introduction/problem?isFullScreen=true
+ */
 
 public class JavaStringsIntroduction {
     public static void main(String[] args) {

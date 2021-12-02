@@ -3,6 +3,10 @@ package com.nikita.hackerrank;
 import java.text.NumberFormat;
 import java.util.Locale;
 import java.util.Scanner;
+/*
+Ввод с клавиатуры числа, которое будет преобразовано к валютам разных стран.
+https://www.hackerrank.com/challenges/java-currency-formatter/problem?isFullScreen=true
+ */
 
 public class JavaCurrencyFormatter {
     public static void main(String[] args) {

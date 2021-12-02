@@ -1,6 +1,10 @@
 package com.nikita.hackerrank;
 
 import java.util.Scanner;
+/*
+Ввести строку с клавиатуры, разбить ее по пробелам на слова и вывести каждое слово с новой строки.
+https://www.hackerrank.com/challenges/java-string-tokens/problem?isFullScreen=true
+ */
 
 public class JavaStringTokens {
     public static void main(String[] args) {

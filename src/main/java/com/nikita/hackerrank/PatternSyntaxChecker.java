@@ -2,6 +2,11 @@ package com.nikita.hackerrank;
 
 import java.util.Scanner;
 import java.util.regex.Pattern;
+/*
+Ввести число шаблонов и сами шаблоны, а потом проверить, является ли синтансис шаблона правильным и вывести результат
+на экран.
+https://www.hackerrank.com/challenges/pattern-syntax-checker/problem?isFullScreen=true
+ */
 
 public class PatternSyntaxChecker {
     public static void main(String[] args) {

@@ -1,6 +1,10 @@
 package com.nikita.hackerrank;
 
 import java.util.Scanner;
+/*
+Ввести число с клавиатуры, пропустить через цикл и на выходе должна получиться таблица умножения, выведенная на экран.
+https://www.hackerrank.com/challenges/java-loops-i/problem?isFullScreen=true
+ */
 
 public class JavaLoopsI {
     public static void main(String[] args) {

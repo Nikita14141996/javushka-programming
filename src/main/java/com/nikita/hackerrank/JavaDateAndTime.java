@@ -3,6 +3,10 @@ package com.nikita.hackerrank;
 import java.io.*;
 import java.util.Calendar;
 import java.util.Locale;
+/*
+Ввод с клавиатуры числа. На экране должен появиться день недели.
+https://www.hackerrank.com/challenges/java-date-and-time/problem?isFullScreen=true
+ */
 
 public class JavaDateAndTime {
     public static void main(String[] args) throws IOException {

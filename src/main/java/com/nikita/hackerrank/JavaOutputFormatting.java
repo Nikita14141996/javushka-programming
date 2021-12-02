@@ -1,6 +1,10 @@
 package com.nikita.hackerrank;
 
 import java.util.Scanner;
+/*
+Ввести значения с клавиатуры и вывести по образцу.
+https://www.hackerrank.com/challenges/java-output-formatting/problem?isFullScreen=true
+ */
 
 public class JavaOutputFormatting {
     public static void main(String[] args) {

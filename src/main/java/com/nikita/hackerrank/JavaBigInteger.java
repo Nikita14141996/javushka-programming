@@ -2,6 +2,10 @@ package com.nikita.hackerrank;
 
     import java.math.BigInteger;
     import java.util.Scanner;
+    /*
+    Вводим с клавиатуры очень большие числа, складываем и умножаем их. Результат выводим на экран.
+    https://www.hackerrank.com/challenges/java-biginteger/problem?isFullScreen=true
+     */
 
 public class JavaBigInteger {
     public static void main(String[] args) {
