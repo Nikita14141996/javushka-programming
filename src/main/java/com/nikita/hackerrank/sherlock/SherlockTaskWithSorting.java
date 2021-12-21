@@ -1,4 +1,4 @@
-package com.nikita.hackerrank;
+package com.nikita.hackerrank.sherlock;
 
 import java.util.Arrays;
 /*

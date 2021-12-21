@@ -1,5 +1,8 @@
 package com.nikita.hackerrank;
 
+import com.nikita.hackerrank.sherlock.SherlockTask;
+import com.nikita.hackerrank.sherlock.SherlockTaskWithMap;
+import com.nikita.hackerrank.sherlock.SherlockTaskWithSorting;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
