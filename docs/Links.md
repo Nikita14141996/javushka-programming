@@ -7,6 +7,7 @@
 3. [Youtube канал с хорошей информацией про программирование](https://www.youtube.com/channel/UCVbz7l0COUdLupcY4YtYH0w)
 4. [Видеокурс по java Тагира Валеева](https://www.youtube.com/watch?v=ygEo5LHHXSI&list=PLOFtRFZ_HEbIyfsPWU4kcbFiYAGR2r_dG)
 
+
 ## Технологии для работы в программировании
 
 1. [Шпаргалка по Git](https://training.github.com/downloads/ru/github-git-cheat-sheet/)
@@ -16,6 +17,9 @@
 5. [Обзорная статья о выборе структур данных](https://habr.com/ru/post/339656/)
 6. [Ознакомительная статья о Docker](https://habr.com/ru/company/ruvds/blog/438796/)
 7. [Обучающий сайт по SQL](https://www.sql-ex.ru/)
+8. [Вопросы и материал для собеседования](https://itvdn.com/ru/blog/article/250-questions-java)
+9. [Курсы по программированию с задачками](https://devcolibri.com/all-courses/)
+
 
 
 
