@@ -1,11 +1,11 @@
 ## Лекционный материал по java
 
-1. [Структурированный синтаксис по java(сайт proglang.su)](http://proglang.su/java)
+1. [Структурированный синтаксис по java(proglang.su)](http://proglang.su/java)
 2. [Расширенный структурированный синтаксис по java(metanit.com)](https://metanit.com/java/tutorial/2.10.php)
 3. [Полезные статьи и туториалы по Java](https://java-master.com/)
 4. [Youtube канал Сергея Немчинского с хорошей информацией про программирование](https://www.youtube.com/channel/UCVbz7l0COUdLupcY4YtYH0w)
 5. [Видеокурс по java Тагира Валеева](https://www.youtube.com/watch?v=ygEo5LHHXSI&list=PLOFtRFZ_HEbIyfsPWU4kcbFiYAGR2r_dG)
-6. [Видеоматериалы по java на youtube карале Евгения Сулейманова](https://www.youtube.com/c/EugeneSuleimanov/featured)
+6. [Видеоматериалы по java на youtube канале Евгения Сулейманова](https://www.youtube.com/c/EugeneSuleimanov/featured)
 7. [Курсы по программированию с задачками](https://devcolibri.com/all-courses/)
 
 ## Технологии для работы c программированием
@@ -35,7 +35,7 @@
 
 ### О трудоустройстве
 
-- [Вопросы и материал для собеседования](https://itvdn.com/ru/blog/article/250-questions-java)
+- [Вопросы и материалы для собеседования](https://itvdn.com/ru/blog/article/250-questions-java)
 - [Вопросы для обратного собеседования](https://github.com/kix/reverse-interview/blob/master/README.md)
 
 ### Полезные технологии
