@@ -8,7 +8,7 @@
 6. [Видеоматериалы по java на youtube карале Евгения Сулейманова](https://www.youtube.com/c/EugeneSuleimanov/featured)
 7. [Курсы по программированию с задачками](https://devcolibri.com/all-courses/)
 
-## Технологии для работы в программировании
+## Технологии для работы c программированием
 
 ### Git
 
@@ -17,7 +17,8 @@
 
 ### Maven
 
-[Репозитории Maven](https://mvnrepository.com/)
+- [Знакомство с Maven](https://www.youtube.com/watch?v=WNV7glHX9vM)
+- [Репозитории Maven](https://mvnrepository.com/)
 
 ### Структуры данных
 
@@ -37,7 +38,8 @@
 - [Вопросы и материал для собеседования](https://itvdn.com/ru/blog/article/250-questions-java)
 - [Вопросы для обратного собеседования](https://github.com/kix/reverse-interview/blob/master/README.md)
 
-###Полезные технологии
+### Полезные технологии
+
 - [Создание документации с помощью Markdown](https://www.youtube.com/watch?v=FFBTGdEMrQ4)
 - [Горячие клавиши(HOTKEYS) для Intellij IDEA](https://www.youtube.com/watch?v=lArM1o0SoMw)
 
